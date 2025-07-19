@@ -1,31 +1,8 @@
-<<<<<<< HEAD
-# 🛠️ Modular Automation System using Python
-
-This is a **terminal-based automation system** in Python that allows you to send WhatsApp messages, make phone calls, send SMS and emails, post on Instagram, and execute remote SSH commands — all from a single menu interface.
-
----
-
-## 📌 Features
-
-- ✅ WhatsApp Messaging (`pywhatkit` + `Twilio`)
-- 📞 Call (via `Twilio` or system default app)
-- 💬 SMS Sending
-- 📧 Email Automation
-- 📸 Instagram Post Uploading
-- 🖥️ SSH Remote Access (supports password & public key)
-
----
-
-## 🧪 Requirements
-
-Install dependencies via:
-
-```bash
-pip install -r requirements.txt
-=======
 # 🚀 Menu-Based Multi-Service Dashboard
 
 A comprehensive menu-based full-stack application that provides services for SMS, calls, Instagram posts, WhatsApp messaging, SSH remote commands, and Gmail email services.
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/paikshal/Menu_dashboard_python)
 
 ## 🌟 Features
 
@@ -216,4 +193,3 @@ For issues and questions:
 ---
 
 **Note**: This application requires proper API credentials and server access. Ensure all services are properly configured before use. 
->>>>>>> 06531d2 (Initial commit - added menu files)
