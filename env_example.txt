@@ -1,0 +1,31 @@
+# Environment Variables Configuration
+# Copy this file to .env and fill in your actual values
+
+# Gmail Configuration
+GMAIL_APP_PASSWORD=your_gmail_app_password_here
+
+# Twilio Configuration
+TWILIO_ACCOUNT_SID=your_twilio_account_sid_here
+TWILIO_AUTH_TOKEN=your_twilio_auth_token_here
+TWILIO_PHONE_NUMBER=your_twilio_phone_number_here
+
+# WhatsApp Configuration
+WHATSAPP_NUMBER=your_whatsapp_number_here
+
+# Instagram Configuration (if needed)
+INSTAGRAM_USERNAME=your_instagram_username_here
+INSTAGRAM_PASSWORD=your_instagram_password_here
+
+# SSH Configuration (if needed)
+SSH_PRIVATE_KEY_PATH=path_to_your_ssh_private_key
+
+# Database Configuration (if needed)
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=your_database_name
+DB_USER=your_database_user
+DB_PASSWORD=your_database_password
+
+# API Keys (if needed)
+API_KEY=your_api_key_here
+SECRET_KEY=your_secret_key_here 
